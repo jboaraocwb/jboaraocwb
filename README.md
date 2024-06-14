@@ -1,19 +1,19 @@
-## Hi there :sunglasses:
+ <h1> Hi there :sunglasses:</h1>
 
-I'm Juliano Boarão, I'm a Front-End programmer, I'm currently learning and creating projects with:
+<h2> I'm Juliano Boarão, I'm a Front-End programmer, I'm currently learning and creating projects with:</h2>
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" /><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" /><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVA SCRIPT logo" /><br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVA SCRIPT logo" />
 
-And starting learning in:
+<h4> And starting learning in:</h4>
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT logo" /><br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPE SCRIPT logo" /><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT logo" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPE SCRIPT logo" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS logo" />
 
 ### connect with me:
